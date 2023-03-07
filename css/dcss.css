@@ -1,0 +1,217 @@
+.user{
+	text-align: center;
+	
+}
+.user a{
+	text-decoration: none;
+}
+.aside{
+width: 300px;
+	border: solid white;
+	float: left;
+	height: 600px;
+	background-color: #3bbf65;	
+}
+.avatar{
+	border-radius: 60px;
+	width: 70px;
+	margin-top: 10px;
+	
+}
+p{
+margin-bottom: auto;	
+}
+.nav_container .nav_list{
+	list-style-type: none;
+	margin: 	15px;
+	font-size: 24px;
+	margin-left: 2px;
+}
+.nav_container .nav_list a{
+	text-decoration: none;
+	color: white;
+
+}
+.nav_container .nav_list:hover{
+	
+	background-color: #3bbf65;
+	padding: 10px 10px; 
+
+}
+.section{
+	width: 1320px;
+	height: 600px;
+	border: solid transparent;
+    background-color: #eaffe1;
+    
+}
+.prof_details{
+    margin-top: 200px;
+    margin-left: 450px;
+	
+    
+ 
+}
+/*****footer****/
+.footer{
+	text-align: center;
+    background-color: #51003c;
+    color:white;
+    font-family: calibri;
+}
+.user_list{  
+    display: inline;
+    padding-left: 30px;
+    color: black;
+	width: 30%;
+  height: 50%;
+}
+.user_border{
+  border: solid #51003c;
+   border-radius: 50px;
+  
+}
+/** Sign up + Input forms **/
+.login-page {
+  width: 360px;
+  padding: 2% 0 0;
+  margin: auto;
+}
+.form{
+	max-width: 600px;
+	background-color: black;
+	text-align: center;
+	 margin: 0 auto 100px;
+  padding: 45px;
+}
+.form_edit{
+    
+	max-width: 600px;
+	background: #3bbf65;
+	
+	 margin: 40px auto 100px;
+  padding: 45px;
+
+
+
+}
+.form_edit input{
+	width: 100%;
+	height: 9%;
+	font-size: 14px;
+	margin-top: 10px;
+
+}
+
+
+.form input{
+	width: 100%;
+	height: 9%;
+	font-size: 14px;
+	margin-top: 10px;
+
+}
+.btn{
+	width: 100%;
+	height: 10%;
+	cursor: pointer;
+	margin-top: 10px;
+}
+.h2{
+	border:solid #3bbf65;
+	background-color: #3bbf65;
+	color:white;
+	margin-top: 0;
+
+}
+.form input:hover{
+	color: #ccc;
+}
+/*add offence */
+.select{
+    width:500px;
+   
+}
+
+.selectbar{
+    margin: 100px 0px auto 500px;
+    box-shadow: 20px;
+}
+.formstyle2{
+    max-width: 500px;
+    padding: 5px 12px 0 20px;
+    font: 13px Arial, Helvetica, san-serif;
+}
+.formstyle2 label{
+    display: block;
+    margin: 0px 0px 15px 0px;
+}
+.formstyle2 input{
+   float: right;
+    margin-left: 70px;
+}
+
+.tform{
+    margin-left: 450px;
+    margin-top: 80px;
+    border: solid #ccc;
+    border-radius: 20px;
+    font-size: 16pt ;
+}
+.tform2{
+    border: solid green;
+    padding-bottom: 20px;
+}
+.tform input .btn{
+    width: 100%;
+    text-align: center;
+    border-radius: 20%;
+    
+}
+.r_table{
+    margin-left: 50px;
+    border: solid;
+    margin-top: -255px;
+    background-color: lightyellow;
+    font-family: calibri;
+   margin-bottom: -700px;
+}
+.r_table tr th{
+   color: white;
+    background-color: #3bbf65;
+}
+.back{
+border:1px ;
+border-radius: 20px;
+background-color:black;
+    text-decoration: none;
+}
+.pr{
+    margin-top: 90px;
+    margin-left: 200px;
+    margin-right: 200px;
+    text-align: center;
+}
+.pr table{
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+.charges{
+    font-size: 50px;
+    font-family: impact;
+}
+.usimg{
+    background-color: white;
+    background-image: url(../img/user.png);
+    background-position: 10px 10px;
+    background-repeat: no-repeat;
+    padding-left: 60px;
+}
+.paimg{
+    background-color: white;
+    background-image: url(../img/pass.png);
+    background-position: 10px 10px;
+    background-repeat: no-repeat;
+    padding-left: 60px;
+}
